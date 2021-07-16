@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design System Android</title>
-    <link>http://example.org/</link>
+    <link>https://ods-sandbox.github.io/test-doc/</link>
     <description>Recent content on Design System Android</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jul 2021 13:45:25 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 13:45:25 +0200</lastBuildDate><atom:link href="https://ods-sandbox.github.io/test-doc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Content</title>
-      <link>http://example.org/components/my-first-content/</link>
+      <link>https://ods-sandbox.github.io/test-doc/components/my-first-content/</link>
       <pubDate>Fri, 16 Jul 2021 13:45:25 +0200</pubDate>
       
-      <guid>http://example.org/components/my-first-content/</guid>
+      <guid>https://ods-sandbox.github.io/test-doc/components/my-first-content/</guid>
       <description>Hello world subtitle var toto; </description>
     </item>
     

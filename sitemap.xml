@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/components/</loc>
+    <loc>https://ods-sandbox.github.io/test-doc/components/</loc>
     <lastmod>2021-07-16T13:45:25+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://ods-sandbox.github.io/test-doc/</loc>
     <lastmod>2021-07-16T13:45:25+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/components/my-first-content/</loc>
+    <loc>https://ods-sandbox.github.io/test-doc/components/my-first-content/</loc>
     <lastmod>2021-07-16T13:45:25+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ods-sandbox.github.io/test-doc/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ods-sandbox.github.io/test-doc/tags/</loc>
   </url>
 </urlset>
